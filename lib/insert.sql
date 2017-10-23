@@ -1,0 +1,1 @@
+INSERT INTO bears (name) VALUES ("Mr. Chocolate", 2, "M", "brown", "angry", 1);
